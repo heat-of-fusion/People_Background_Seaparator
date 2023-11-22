@@ -1,0 +1,4 @@
+사용한 데이터셋
+1. MHP(Multi Human Parsing) Dataset (https://lv-mhp.github.io/dataset)
+2. SVT(Street View Text) Dataset (http://www.iapr-tc11.org/mediawiki/index.php/The_Street_View_Text_Dataset)
+3. Google Strewet View Dataset (https://www.crcv.ucf.edu/data/GMCP_Geolocalization/#Dataset)
